@@ -15,7 +15,7 @@ import android.widget.Toast;
 import java.util.List;
 
 public class ControlService extends AccessibilityService {
-    private static final String TAG = "微信辅助服务结果";
+    private static final String TAG = "ControlService";
     //微信包名
     private final static String WeChat_PNAME = "com.tencent.mm";
     //微信布局ID前缀
